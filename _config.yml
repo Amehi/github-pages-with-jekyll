@@ -2,7 +2,7 @@
 title: "Welcome to My Page"
 date: 2021-07-01
 ---
-title: Welcome to my page
+#title: Welcome to my page
 author: Amehi
 email: 1523049755@qq.com
 description: > # this means to ignore newlines until "baseurl:"
