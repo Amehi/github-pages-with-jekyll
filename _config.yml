@@ -1,3 +1,7 @@
+---
+title: "Welcome to My Page"
+date: 2021-07-01
+---
 title: Welcome to my page
 author: Amehi
 email: 1523049755@qq.com
@@ -10,7 +14,3 @@ github_username:  Amehi # DO NOT include the @ character, or else the build will
 
 show_excerpts: false # set to false to remove excerpts on the homepage
 theme: minima
----
-title: "Welcome to My Page"
-date: 2021-07-01
----
